@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "nodejs_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jslee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dl137584/express_nodejs_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dl137584/express_nodejs_test/issues"
+  },
+  "homepage": "https://github.com/dl137584/express_nodejs_test#readme"
+}
